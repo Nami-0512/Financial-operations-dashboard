@@ -1,4 +1,4 @@
-# **Financial Operations \& Business Analytics Dashboard**
+<img width="1290" height="713" alt="Executive Summary" src="https://github.com/user-attachments/assets/c41567d4-c05a-409b-b784-22db4034ad1e" /># **Financial Operations \& Business Analytics Dashboard**
 
 **Financial Year:** April 2025 – March 2026
 
@@ -160,7 +160,21 @@ This project demonstrates practical skills in data cleaning, SQL querying, Pytho
 
 It showcases how multiple analytical tools can be combined to support financial monitoring and business decision-making.
 
-### **Documentation**
+### **Screenshots**
+
+**Executive Summary**
 <img width="1290" height="713" alt="Executive Summary" src="https://github.com/user-attachments/assets/4f536bf4-033b-431d-ac5d-f95425a9b6f5" />
+**Purchase Analysis**
+<img width="1282" height="712" alt="Purchase Analysis" src="https://github.com/user-attachments/assets/a9488e94-ff79-411d-9103-fd9793a1c133" />
+**Sales Analysis**
+<img width="1282" height="716" alt="Sales Analysis" src="https://github.com/user-attachments/assets/a83e818a-f759-4b44-97da-3342ba649784" />
+**AR Outstanding** 
+<img width="1273" height="712" alt="AR Outstanding" src="https://github.com/user-attachments/assets/ba26148d-d270-4a24-a58f-80f1b3e81c29" />
+**Expense & Profitability**
+<img width="1278" height="711" alt="Expense Profitability" src="https://github.com/user-attachments/assets/6238abd3-b8f7-4c8b-89c0-6888199c46e3" />
+
+
+
+
 
 
