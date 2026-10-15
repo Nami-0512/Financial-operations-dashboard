@@ -1,10 +1,10 @@
-#**Financial Operations \& Business Analytics Dashboard**
+# **Financial Operations \& Business Analytics Dashboard**
 
 **Financial Year:** April 2025 – March 2026
 
 **Tools:** Excel | Power Query | SQL Server | Python | Power BI | DAX
 
-
+---
 
 ### **Project Overview**
 
@@ -14,7 +14,7 @@ It combines data cleaning, SQL analysis, Python analytics, financial KPI calcula
 
 **Note:** All data are synthetic sample data created for portfolio demonstration.
 
-
+---
 
 ### **Business Objectives**
 
@@ -26,7 +26,7 @@ It combines data cleaning, SQL analysis, Python analytics, financial KPI calcula
 • Use Python for potential-anomaly screening and baseline forecasting.
 • Present findings through an interactive Power BI report.
 
-
+---
 ### **Tools and Technologies**
 
 * Microsoft Excel
@@ -36,7 +36,7 @@ It combines data cleaning, SQL analysis, Python analytics, financial KPI calcula
 * Power BI
 * DAX
 
-
+---
 
 ### **Dataset**
 
@@ -52,6 +52,7 @@ It combines data cleaning, SQL analysis, Python analytics, financial KPI calcula
 **Total records**: 2,961 across the six tables.
 
 ### 
+---
 
 ### **Power BI Report Pages**
 
@@ -61,7 +62,7 @@ It combines data cleaning, SQL analysis, Python analytics, financial KPI calcula
 4. AR \& Outstanding Payments
 5. Expense \& Profitability
 
-
+---
 
 ### **Key Financial Results**
 
@@ -76,7 +77,7 @@ It combines data cleaning, SQL analysis, Python analytics, financial KPI calcula
 |Net Profit Margin|4.89%|
 
 ### 
-
+---
 ### **Brand Profitability**
 
 |**Brand**|**Gross Profit**|**Margin**|
@@ -85,7 +86,7 @@ It combines data cleaning, SQL analysis, Python analytics, financial KPI calcula
 |ONEPLUS|₹1.25M|2.24%|
 
 ### 
-
+---
 ### **Python Analysis**
 
 * Financial KPI analysis
@@ -99,7 +100,7 @@ It combines data cleaning, SQL analysis, Python analytics, financial KPI calcula
 
 Anomaly detection identifies unusual values for review; it does not prove fraud or errors.
 
-
+---
 
 ### **SQL Analysis**
 
@@ -114,7 +115,7 @@ SQL scripts cover:
 * Expense summaries
 * Payment method analysis
 
-
+---
 
 ### **Repository Contents**
 
@@ -125,7 +126,7 @@ SQL scripts cover:
 • Documentation/ — project report, financial insights, and data dictionary
 • Screenshots/ — dashboard page screenshots
 
-
+---
 ### **How to Review**
 
 1\. Read the project report and data dictionary in **Documentation**.
@@ -138,7 +139,7 @@ SQL scripts cover:
 
 5\. Use the sample workbook in **Data** to understand the input data.
 
-
+---
 
 ### **Limitations**
 
@@ -152,7 +153,7 @@ SQL scripts cover:
 
 \* Receivables aging depends on the selected as-of date and payment cutoff logic.
 
-
+---
 
 ### **Conclusion**
 
@@ -160,20 +161,25 @@ This project demonstrates practical skills in data cleaning, SQL querying, Pytho
 
 It showcases how multiple analytical tools can be combined to support financial monitoring and business decision-making.
 
+---
 ### **Screenshots**
 
 **Executive Summary**
 
 <img width="1290" height="713" alt="Executive Summary" src="https://github.com/user-attachments/assets/4f536bf4-033b-431d-ac5d-f95425a9b6f5" />
+
 **Purchase Analysis**
 
 <img width="1282" height="712" alt="Purchase Analysis" src="https://github.com/user-attachments/assets/a9488e94-ff79-411d-9103-fd9793a1c133" />
+
 **Sales Analysis**
 
 <img width="1282" height="716" alt="Sales Analysis" src="https://github.com/user-attachments/assets/a83e818a-f759-4b44-97da-3342ba649784" />
+
 **AR Outstanding** 
 
 <img width="1273" height="712" alt="AR Outstanding" src="https://github.com/user-attachments/assets/ba26148d-d270-4a24-a58f-80f1b3e81c29" />
+
 **Expense & Profitability**
 
 <img width="1278" height="711" alt="Expense Profitability" src="https://github.com/user-attachments/assets/6238abd3-b8f7-4c8b-89c0-6888199c46e3" />
