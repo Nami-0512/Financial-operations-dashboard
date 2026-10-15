@@ -119,12 +119,12 @@ SQL scripts cover:
 
 ### **Repository Contents**
 
-1\. **PowerBI_Dashboard** — Power BI report (.pbix).
-2\. **SQL_Queries** — SQL schema, validation, and analysis scripts.
-3\. **Python_File** — DataAnalysis.py.
-4\. **Data** — source and generated Excel workbooks.
-5\. **Documentation** — project report, financial insights, and data dictionary.
-6\. **Screenshots** — dashboard page screenshots.
+-  **PowerBI_Dashboard** — Power BI report (.pbix).
+-  **SQL_Queries** — SQL schema, validation, and analysis scripts.
+-  **Python_File** — DataAnalysis.py.
+-  **Data** — source and generated Excel workbooks.
+-  **Documentation** — project report, financial insights, and data dictionary.
+-  **Screenshots** — dashboard page screenshots.
 
 ---
 ### **How to Review**
