@@ -1,4 +1,4 @@
-# **Financial Operations \& Business Analytics Dashboard**
+<img width="1278" height="711" alt="Expense Profitability" src="https://github.com/user-attachments/assets/604b8c95-be3e-4cc3-978c-05b1dea79829" /># **Financial Operations \& Business Analytics Dashboard**
 
 **Financial Year:** April 2025 – March 2026
 
@@ -119,12 +119,12 @@ SQL scripts cover:
 
 ### **Repository Contents**
 
-• PowerBI_Dashboard/ — Power BI report (.pbix)
-• SQL_Queries/ — SQL schema, validation, and analysis scripts
-• Python_File/ — DataAnalysis.py
-• Data/ — source and generated Excel workbooks
-• Documentation/ — project report, financial insights, and data dictionary
-• Screenshots/ — dashboard page screenshots
+-• **PowerBI_Dashboard/** — Power BI report (.pbix).
+-• **SQL_Queries/** — SQL schema, validation, and analysis scripts.
+-• **Python_File/** — DataAnalysis.py.
+-• **Data/** — source and generated Excel workbooks.
+-• **Documentation/** — project report, financial insights, and data dictionary.
+-• **Screenshots/** — dashboard page screenshots.
 
 ---
 ### **How to Review**
