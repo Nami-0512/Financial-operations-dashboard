@@ -18,13 +18,13 @@ It combines data cleaning, SQL analysis, Python analytics, financial KPI calcula
 
 ### **Business Objectives**
 
-• Analyze sales and purchase performance.
-• Monitor customer collections, outstanding balances, and overdue invoices.
-• Analyze receivables aging and payment trends.
-• Compare brand sales and gross profitability.
-• Review operating expenses and net-profit trends.
-• Use Python for potential-anomaly screening and baseline forecasting.
-• Present findings through an interactive Power BI report.
+- • Analyze sales and purchase performance.
+- • Monitor customer collections, outstanding balances, and overdue invoices.
+- • Analyze receivables aging and payment trends.
+- • Compare brand sales and gross profitability.
+- • Review operating expenses and net-profit trends.
+- • Use Python for potential-anomaly screening and baseline forecasting.
+- • Present findings through an interactive Power BI report.
 
 ---
 
