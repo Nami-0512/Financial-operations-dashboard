@@ -18,16 +18,13 @@ It combines data cleaning, SQL analysis, Python analytics, financial KPI calcula
 
 ### **Business Objectives**
 
-• Analyze sales, purchases, collections, outstanding receivables, expenses, and profitability.
-
-• Validate and transform data before analysis.
-
-• Use SQL to answer financial and operational questions.
-
-• Use Python for trend analysis, customer profitability, potential-anomaly screening, and baseline forecasting.
-
-• Build interactive Power BI pages to communicate results clearly.
-
+• Analyze sales and purchase performance.
+• Monitor customer collections, outstanding balances, and overdue invoices.
+• Analyze receivables aging and payment trends.
+• Compare brand sales and gross profitability.
+• Review operating expenses and net-profit trends.
+• Use Python for potential-anomaly screening and baseline forecasting.
+• Present findings through an interactive Power BI report.
 
 
 ### **Tools and Technologies**
@@ -119,15 +116,14 @@ SQL scripts cover:
 
 
 
-### **Project Structure**
+### **Repository Contents**
 
-* PowerBI\_Dashboard
-* SQL Queries
-* Python\_File
-* Data
-* Documentation
-* Screenshots
-
+• PowerBI_Dashboard/ — Power BI report (.pbix)
+• SQL_Queries/ — SQL schema, validation, and analysis scripts
+• Python_File/ — DataAnalysis.py
+• Data/ — source and generated Excel workbooks
+• Documentation/ — project report, financial insights, and data dictionary
+• Screenshots/ — dashboard page screenshots
 
 
 ### **How to Review**
@@ -154,7 +150,7 @@ SQL scripts cover:
 
 \* Expense allocation by brand/product is not available.
 
-\* Receivables aging depends on the selected as-of date and payment cutoff logic**.**
+\* Receivables aging depends on the selected as-of date and payment cutoff logic.
 
 
 
@@ -163,4 +159,8 @@ SQL scripts cover:
 This project demonstrates practical skills in data cleaning, SQL querying, Python analysis, financial KPI development, and interactive Power BI reporting.
 
 It showcases how multiple analytical tools can be combined to support financial monitoring and business decision-making.
+
+### **Documentation**
+<img width="1290" height="713" alt="Executive Summary" src="https://github.com/user-attachments/assets/4f536bf4-033b-431d-ac5d-f95425a9b6f5" />
+
 
